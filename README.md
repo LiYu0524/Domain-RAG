@@ -1,4 +1,4 @@
-# Domain-RAG# Domain-RAG: Retrieval-Augmented Generation for Cross-Domain Few-Shot Object Detection (NeurIPS 2025)
+# Domain-RAG: Retrieval-Augmented Generation for Cross-Domain Few-Shot Object Detection (NeurIPS 2025)
 
 [🔥 Paper (NeurIPS 2025)](https://arxiv.org/abs/2506.05872) | [📦 Dataset Scripts](#dataset-preparation) | [🧠 Model Zoo](#pretrained-models) | [🚀 Quick Start](#quick-start) | [📊 Evaluation](#evaluation) | [📞 Contact](#contact)
 
@@ -7,7 +7,7 @@
 **Domain-RAG** is a novel retrieval-augmented generative framework designed for **Cross-Domain Few-Shot Object Detection (CD-FSOD)**. We leverage large-scale vision-language models (GroundingDINO), a curated COCO-style retrieval corpus, and Flux-based background generation to synthesize diverse, domain-aware training data that enhances FSOD generalization under domain shift.
 
 <p align="center">
-  <img src="assets/framework.pdf" alt="DomainRAG Pipeline" width="700"/>
+  <img src="assets/framework.svg" alt="DomainRAG Pipeline" width="700"/>
 </p>
 
 ---
