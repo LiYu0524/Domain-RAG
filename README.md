@@ -1,6 +1,6 @@
 # Domain-RAG: Retrieval-Augmented Generation for Cross-Domain Few-Shot Object Detection (NeurIPS 2025)
 
-[🔥 Paper (NeurIPS 2025)](https://arxiv.org/abs/2506.05872) | [📦 Dataset Scripts](#dataset-preparation) | [🧠 Model Zoo](#pretrained-models) | [🚀 Quick Start](#quick-start) | [📊 Evaluation](#evaluation) | [📞 Contact](#contact)
+[🔥 Paper (NeurIPS 2025)](https://arxiv.org/abs/2506.05872) | [📦 Dataset Scripts](#dataset-preparation) | [🧠 Model Zoo](#pretrained-models) | [🚀 Quick Start](#quick-start) | [🎥 Video](#video) | [📊 Evaluation](#evaluation) | [📞 Contact](#contact)
 
 ---
 
@@ -29,3 +29,23 @@ cd Domain-RAG
 conda create -n domainrag python=3.10
 conda activate domainrag
 pip install -r requirements.txt
+```
+
+
+## Pretrained Models
+
+we will relase the fine-tuned grounding-dino model soon
+
+## Dataset Preparation
+
+You can prepare CDFSOD with [CDVITO](https://github.com/lovelyqian/CDFSOD-benchmark?tab=readme-ov-file)
+
+## Quick start 
+
+You can refer to `./domainrag.sh`
+
+
+
+## Video
+
+Walkthrough video(Chinese version): [Watch here](https://www.bilibili.com/video/BV1YznKzkEEK/?spm_id_from=333.337.search-card.all.click&vd_source=23bede4ceb3dc1ea2ffc645933850555)
