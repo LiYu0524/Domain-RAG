@@ -1,4 +1,4 @@
-# Domain-RAG: Retrieval-Augmented Generation for Cross-Domain Few-Shot Object Detection (NeurIPS 2025)
+# Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection (NeurIPS 2025)
 
 [🔥 Paper (NeurIPS 2025)](https://arxiv.org/abs/2506.05872) | [📦 Dataset Scripts](#dataset-preparation) | [🧠 Model Zoo](#pretrained-models) | [🚀 Quick Start](#quick-start) | [🎥 Video](#video) | [📊 Evaluation](#evaluation) | [📞 Contact](#contact)
 
