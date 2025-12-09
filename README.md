@@ -1,6 +1,6 @@
-# Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection (NeurIPS 2025)
+# [NeurIPS 2025] Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection 
 
-[🔥 Paper (NeurIPS 2025)](https://arxiv.org/abs/2506.05872) | [📦 Dataset Scripts](#dataset-preparation) | [🧠 Model Zoo](#pretrained-models) | [🚀 Quick Start](#quick-start) | [🎥 Video](#video) | [📊 Evaluation](#evaluation) | [📞 Contact](#contact)
+[🔥 Paper (NeurIPS 2025)](https://arxiv.org/abs/2506.05872) | [🌐 Project Page](https://yuli-cs.net/papers/domain-rag) | [📦 Dataset Scripts](#dataset-preparation) | [🧠 Model Zoo](#pretrained-models) | [🚀 Quick Start](#quick-start) | [🎥 Video](#video) | [📊 Evaluation](#evaluation) | [📞 Contact](#contact)
 
 ---
 
@@ -49,3 +49,35 @@ You can refer to `./domainrag.sh`
 ## Video
 
 Walkthrough video(Chinese version): [Watch here](https://www.bilibili.com/video/BV1YznKzkEEK/?spm_id_from=333.337.search-card.all.click&vd_source=23bede4ceb3dc1ea2ffc645933850555)
+
+## Contact
+
+For questions and collaboration, please contact:
+
+- Yu Li (1st author): `<liyu24@m.fudan.edu.cn>`
+
+
+## Citation
+
+If you find **Domain-RAG** useful in your research, please cite:
+
+```bibtex
+@inproceedings{li2025domainrag,
+  title={Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection},
+  author={Li, Yu and Qiu, Xingyu and Fu, Yuqian and Chen, Jie and Qian, Tianwen and Zheng, Xu and Paudel, Danda Pani and Fu, Yanwei and Huang, Xuanjing and Van Gool, Luc and Jiang, Yu-Gang},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS), Poster},
+  year={2025}
+}
+```
+
+If you find **CD-Vito** useful in your research, please cite:
+```bibtex
+@inproceedings{fu2024cross,
+  title={Cross-domain few-shot object detection via enhanced open-set object detector},
+  author={Fu, Yuqian and Wang, Yu and Pan, Yixuan and Huai, Lian and Qiu, Xingyu and Shangguan, Zeyu and Liu, Tong and Fu, Yanwei and Van Gool, Luc and Jiang, Xingqun},
+  booktitle={European Conference on Computer Vision},
+  pages={247--264},
+  year={2024},
+  organization={Springer}
+}
+```
