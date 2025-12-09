@@ -63,10 +63,12 @@ If you find **Domain-RAG** useful in your research, please cite:
 
 ```bibtex
 @inproceedings{li2025domainrag,
-  title={Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection},
-  author={Li, Yu and Qiu, Xingyu and Fu, Yuqian and Chen, Jie and Qian, Tianwen and Zheng, Xu and Paudel, Danda Pani and Fu, Yanwei and Huang, Xuanjing and Van Gool, Luc and Jiang, Yu-Gang},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS), Poster},
-  year={2025}
+ author={Li, Yu and Qiu, Xingyu and Fu, Yuqian and Chen, Jie and Qian, Tianwen and Zheng, Xu and Paudel, Danda Pani and Fu, Yanwei and Huang, Xuanjing and Van Gool, Luc and others},
+ booktitle = {Advances in Neural Information Processing Systems},
+ title = {Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection},
+ year = {2025}
+}
+
 }
 ```
 
