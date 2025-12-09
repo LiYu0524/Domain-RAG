@@ -54,7 +54,7 @@ Walkthrough video(Chinese version): [Watch here](https://www.bilibili.com/video/
 
 For questions and collaboration, please contact:
 
-- Yu Li (1st author): `<liyu24@m.fudan.edu.cn>`
+- Yu Li : `<liyu24@m.fudan.edu.cn>`
 
 
 ## Citation
