@@ -69,7 +69,6 @@ If you find **Domain-RAG** useful in your research, please cite:
  year = {2025}
 }
 
-}
 ```
 
 If you find **CD-Vito** useful in your research, please cite:
