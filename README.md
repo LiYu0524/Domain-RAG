@@ -16,7 +16,7 @@
 
 - 🔍 **Retrieval-Augmented Generation**: retrieve semantically similar source images for novel-class prompts.
 - 🎨 **Flux-Redux Integration**: compose diverse backgrounds with target foregrounds for domain-aligned generation.
-- 📦 **Support for Multiple Target Domains**: DIOR, ArTAXOr, DeepFish, UODD, NEU-DET, and more.
+- 📦 **Support for Multiple Target Domains**: ArTAXOr, Clipart1k, DIOR, DeepFish, UODD, NEU-DET, and more.
 - 🧪 **Strong Benchmarks**: surpasses GroundingDINO baseline in 1-shot and 5-shot CD-FSOD across 6 datasets.
 
 ---
