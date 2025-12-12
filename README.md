@@ -1,6 +1,6 @@
 # [NeurIPS 2025] Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection
 
-[🔥 Paper (NeurIPS 2025)](https://arxiv.org/abs/2506.05872) | [🌐 Project Page](https://yuli-cs.net/papers/domain-rag) | [📦 Dataset Scripts](#dataset-preparation) | [🧠 Model Zoo](#pretrained-models) | [🚀 Quick Start](#quick-start) | [🎥 Video](#video) | [📊 Evaluation](#evaluation) | [📞 Contact](#contact)
+[🔥 Paper (NeurIPS 2025)](https://arxiv.org/abs/2506.05872) | [🌐 Project Page](https://yuli-cs.net/papers/domain-rag) | [📦 Dataset Scripts](#dataset-preparation) | [🧠 Model Zoo](#pretrained-models) | [🚀 Quick Start](#quick-start) | [🎥 Video](#video) | [📊 Evaluation](#evaluation) | [✉️ Contact](#contact)
 
 ---
 
@@ -55,6 +55,8 @@ Walkthrough video(Chinese version): [Watch here](https://www.bilibili.com/video/
 For questions and collaboration, please contact:
 
 - Yu Li : `<liyu24@m.fudan.edu.cn>`
+- Xingyu Qiu :  `<24210980129@m.fudan.edu.cn>`
+- Yuqian Fu :  `<yuqian.fu@insait.ai>`
 
 
 ## Citation
@@ -62,13 +64,12 @@ For questions and collaboration, please contact:
 If you find **Domain-RAG** useful in your research, please cite:
 
 ```bibtex
-@inproceedings{li2025domainrag,
- author={Li, Yu and Qiu, Xingyu and Fu, Yuqian and Chen, Jie and Qian, Tianwen and Zheng, Xu and Paudel, Danda Pani and Fu, Yanwei and Huang, Xuanjing and Van Gool, Luc and others},
- booktitle = {Advances in Neural Information Processing Systems},
- title = {Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection},
- year = {2025}
+@article{li2025domain,
+  title={Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection},
+  author={Li, Yu and Qiu, Xingyu and Fu, Yuqian and Chen, Jie and Qian, Tianwen and Zheng, Xu and Paudel, Danda Pani and Fu, Yanwei and Huang, Xuanjing and Van Gool, Luc and others},
+  journal={arXiv preprint arXiv:2506.05872},
+  year={2025}
 }
-
 ```
 
 If you find **CD-Vito** useful in your research, please cite:
