@@ -1,6 +1,6 @@
 # [NeurIPS 2025] Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection
 
-[🔥 Paper (NeurIPS 2025)](https://arxiv.org/abs/2506.05872) | [🌐 Project Page](https://yuli-cs.net/papers/domain-rag) | [📦 Dataset Scripts](#dataset-preparation) | [🧠 Model Zoo](#pretrained-models) | [🚀 Quick Start](#quick-start) | [🎥 Video](#video) | [📊 Evaluation](#evaluation) | [✉️ Contact](#contact)
+[📚 Paper (NeurIPS 2025)](https://arxiv.org/abs/2506.05872) | [📂 Project Page](https://yuli-cs.net/papers/domain-rag) | [📦 Dataset Scripts](#dataset-preparation) | [🚀 Quick Start](#quick-start) | [🎥 Video](#video) | [✉️ Contact](#contact)
 
 ---
 
@@ -17,7 +17,7 @@
 - 🔍 **Retrieval-Augmented Generation**: retrieve semantically similar source images for novel-class prompts.
 - 🎨 **Flux-Redux Integration**: compose diverse backgrounds with target foregrounds for domain-aligned generation.
 - 📦 **Support for Multiple Target Domains**: ArTAXOr, Clipart1k, DIOR, DeepFish, UODD, NEU-DET, and more.
-- 🧪 **Strong Benchmarks**: surpasses GroundingDINO baseline in 1-shot and 5-shot CD-FSOD across 6 datasets.
+- 🧪 **Strong Benchmarks**: surpasses GroundingDINO baseline in few-shot setting across CD-FSOD & RS-FSOD & CAMO-FS.
 
 ---
 
@@ -32,13 +32,13 @@ pip install -r requirements.txt
 ```
 
 
-## Pretrained Models
-
-we will relase the fine-tuned grounding-dino model soon
-
 ## Dataset Preparation
 
-You can prepare CDFSOD with [CDVITO](https://github.com/lovelyqian/CDFSOD-benchmark?tab=readme-ov-file)
+You can prepare CD-FSOD with [CDVITO](https://github.com/lovelyqian/CDFSOD-benchmark?tab=readme-ov-file)
+
+For NWPU VHR-10(RS-FSOD) dataset, you can download it from [NWPU VHR-10](https://gcheng-nwpu.github.io/)
+
+For CAMO-FS dataset, you can download it from [CAMO-FS](https://www.kaggle.com/datasets/danhnt/camo-fs-dataset)
 
 ## Quick start 
 
